@@ -7,8 +7,8 @@ class MyList
     @list = array
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each(&)
+    @list.each(&)
   end
 end
 
