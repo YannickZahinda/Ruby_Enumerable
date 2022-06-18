@@ -1,45 +1,38 @@
-![](https://img.shields.io/badge/Morse_decoder-blueviolet)
+# Enumerable
 
-# Ruby Enumerables
+> In this project, created a module will implement a subset of the functionality of Enumerable.
 
-In this project you will learn how to use a module inside class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## Built With
 
-- Ruby
+Ruby
 
-## Setup
+## Getting Started
 
-- `git clone https://github.com/Mo7amedSMahdi/enumerables.git`
-- `cd enumerables`
-- `ruby my_list.rb`
+**You need to have Ruby installed into your computer**
+
+
+To get a local copy up and running follow these simple example steps.
+
+```
+git clone https://github.com/YannickZahinda/Ruby_Enumerable
+```
 
 ## Authors
 
-👤 **Mohammed Salah**
+👤 **Furkan Salim Hıdır**
 
-- GitHub: [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi)
-- Twitter: [devMo7amed](https://twitter.com/devMo7amed)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Mo7amedSMahdi/)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Alfred Bisimwa**
+👤 **YannickZahinda**
 
-- GitHub: [Alfred Bisimwa](https://github.com/Alfredbis29)
-- Twitter: [devMo7amed](https://twitter.com/AlfredBisimwa1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alfred-bisimwa/)
+- GitHub: [@YannickZahinda](https://github.com/YannickZahinda)
+- Twitter: [@ZahindaY](https://twitter.com/ZahindaY)
+- LinkedIn: [Yannick MULIKUZA](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
